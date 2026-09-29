@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://takeamate.com.au/sitemap.xml
